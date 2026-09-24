@@ -1,0 +1,23 @@
+﻿;Tipo;Nulos;Nulos (%);Valores únicos
+Último Complemento Consumidor;str;205208;97.78;64
+Interação com Judiciario;str;202034;96.27;3
+Nota do Consumidor;float64;151739;72.3;6
+Nome Fantasia;str;0;0.0;1
+Segmento de Mercado;str;0;0.0;1
+Procurou Empresa;str;0;0.0;2
+Respondida;str;0;0.0;2
+Situação;str;0;0.0;2
+Área;str;0;0.0;3
+Avaliação Reclamação;str;0;0.0;3
+Sexo;str;2;0.0;4
+Região;str;0;0.0;5
+Faixa Etária;str;0;0.0;7
+Grupo Problema;str;0;0.0;8
+Como Comprou Contratou;str;0;0.0;9
+Tempo Resposta;float64;9;0.0;17
+UF;str;0;0.0;27
+Assunto;str;0;0.0;28
+AAAA_MM;str;0;0.0;48
+Problema;str;0;0.0;95
+Data Finalização;str;0;0.0;1454
+Cidade;str;0;0.0;5175
