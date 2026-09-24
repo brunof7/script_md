@@ -1,0 +1,12 @@
+﻿Variável;Gradient Boosting;KNN;Random Forest;Regressão Logística;Ranking médio
+Problema;1.0;1.0;1.0;1.0;1.0
+Procurou Empresa;2.0;3.0;2.0;2.0;2.25
+Grupo Problema;6.0;2.0;3.0;3.0;3.5
+Como Comprou Contratou;3.0;8.0;7.0;4.0;5.5
+UF;4.0;5.0;8.0;5.0;5.5
+Sexo;5.0;4.0;6.0;8.0;5.75
+Área;7.0;7.0;5.0;7.0;6.5
+Cidade;10.0;;4.0;6.0;6.666666666666667
+Faixa Etária;9.0;6.0;10.0;10.0;8.75
+Região;8.0;9.0;9.0;9.0;8.75
+Assunto;11.0;10.0;11.0;11.0;10.75

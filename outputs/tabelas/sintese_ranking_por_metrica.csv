@@ -1,0 +1,5 @@
+﻿Modelo;Precisão @0,50;Revocação @0,50;F1 @0,50;ROC-AUC;PR-AUC (AP);KS;Precisão Operacional;Revocação Operacional;Lift Operacional;Brier Score;Brier Skill Score;PSI Score
+Gradient Boosting;2.0;3.0;3.0;2.0;2.0;2.0;2.0;3.0;2.0;1.0;1.0;4.0
+KNN;4.0;4.0;4.0;4.0;4.0;4.0;4.0;2.0;4.0;4.0;4.0;1.0
+Random Forest;1.0;2.0;2.0;1.0;1.0;1.0;1.0;4.0;1.0;3.0;3.0;3.0
+Regressão Logística;3.0;1.0;1.0;3.0;3.0;3.0;3.0;1.0;3.0;2.0;2.0;2.0

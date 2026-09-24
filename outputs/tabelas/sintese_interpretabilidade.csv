@@ -1,0 +1,5 @@
+﻿Modelo;Top 3 variáveis por Permutation Importance
+Regressão Logística;1. Problema | 2. Procurou Empresa | 3. Grupo Problema
+KNN;1. Problema | 2. Grupo Problema | 3. Procurou Empresa
+Random Forest;1. Problema | 2. Procurou Empresa | 3. Grupo Problema
+Gradient Boosting;1. Problema | 2. Procurou Empresa | 3. Como Comprou Contratou

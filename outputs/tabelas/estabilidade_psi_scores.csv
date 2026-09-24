@@ -1,0 +1,9 @@
+﻿Modelo;Comparação;PSI Score
+Regressão Logística;Treino → Teste;0.01612208109206753
+Regressão Logística;Treino → OOT;0.13861149263372902
+KNN;Treino → Teste;0.007081382819976955
+KNN;Treino → OOT;0.08865693956608633
+Random Forest;Treino → Teste;0.015201603207373519
+Random Forest;Treino → OOT;0.1502349314105567
+Gradient Boosting;Treino → Teste;0.02252899973480943
+Gradient Boosting;Treino → OOT;0.16483176230303426

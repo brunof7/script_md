@@ -1,0 +1,23 @@
+﻿Variável;Comparação;PSI;Categorias Treino;Categorias Comparação
+Cidade;Treino → OOT;0.9019824047081915;1774;2978
+Problema;Treino → OOT;0.5683449739693981;85;83
+Assunto;Treino → OOT;0.48275286463698586;27;26
+Grupo Problema;Treino → OOT;0.1818772567232365;8;8
+Como Comprou Contratou;Treino → OOT;0.07721246850283078;9;9
+UF;Treino → OOT;0.02641385337654031;27;27
+Sexo;Treino → OOT;0.017296911624884472;3;3
+Faixa Etária;Treino → OOT;0.01081761540445458;7;7
+Procurou Empresa;Treino → OOT;0.00847109443975685;2;2
+Área;Treino → OOT;0.008395312446800857;3;3
+Região;Treino → OOT;0.0028065522149972625;5;5
+Cidade;Treino → Teste;1.0266412906993905;1774;2042
+Assunto;Treino → Teste;0.32039125675413865;27;27
+Problema;Treino → Teste;0.25619773934773554;85;80
+Grupo Problema;Treino → Teste;0.03983336688750108;8;8
+Como Comprou Contratou;Treino → Teste;0.02799620736730216;9;9
+UF;Treino → Teste;0.01233355460541932;27;27
+Sexo;Treino → Teste;0.01087253944862736;3;3
+Procurou Empresa;Treino → Teste;0.0077878085464557975;2;2
+Região;Treino → Teste;0.0026482941665883783;5;5
+Faixa Etária;Treino → Teste;0.002402292223012395;7;7
+Área;Treino → Teste;0.0008034411977139977;3;3

@@ -1,0 +1,44 @@
+﻿Modelo;Variável;TVD
+Gradient Boosting;Problema;0.6558633991443349
+Gradient Boosting;Grupo Problema;0.4585089926266723
+Gradient Boosting;Cidade;0.3742115505316513
+Gradient Boosting;Procurou Empresa;0.32886025874794966
+Gradient Boosting;Assunto;0.17559589289439412
+Gradient Boosting;Faixa Etária;0.1681901449904154
+Gradient Boosting;UF;0.11619763168901065
+Gradient Boosting;Região;0.0939489372505826
+Gradient Boosting;Como Comprou Contratou;0.08515429618064431
+Gradient Boosting;Sexo;0.05235123122038056
+Gradient Boosting;Área;0.0030121127782562164
+KNN;Problema;0.4644258058035659
+KNN;Grupo Problema;0.3884766009406056
+KNN;Assunto;0.19063325456165434
+KNN;Procurou Empresa;0.18630888292300962
+KNN;Faixa Etária;0.1537285236944032
+KNN;Sexo;0.11658898929796546
+KNN;UF;0.10998903876985346
+KNN;Como Comprou Contratou;0.0709468740220685
+KNN;Região;0.058730042799661
+KNN;Área;0.015038642215003407
+Random Forest;Problema;0.669359020978067
+Random Forest;Grupo Problema;0.5353767044364212
+Random Forest;Cidade;0.41850081519909577
+Random Forest;Procurou Empresa;0.30540499097007945
+Random Forest;Assunto;0.24552441311448764
+Random Forest;UF;0.18239075041916683
+Random Forest;Faixa Etária;0.17457524968345597
+Random Forest;Região;0.13812115368245467
+Random Forest;Como Comprou Contratou;0.1365359866578439
+Random Forest;Sexo;0.08296152325519665
+Random Forest;Área;0.0018591492566220691
+Regressão Logística;Problema;0.6296129609072427
+Regressão Logística;Grupo Problema;0.43829270976330964
+Regressão Logística;Cidade;0.3321338334014058
+Regressão Logística;Procurou Empresa;0.2607074325262386
+Regressão Logística;Faixa Etária;0.21451553577199567
+Regressão Logística;Assunto;0.17710130554981082
+Regressão Logística;UF;0.1558763279157692
+Regressão Logística;Como Comprou Contratou;0.1213541903695899
+Regressão Logística;Região;0.10776337824191182
+Regressão Logística;Sexo;0.06587804460748536
+Regressão Logística;Área;0.013447226419539875

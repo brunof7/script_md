@@ -1,0 +1,23 @@
+﻿Variável original;Mean |SHAP|;Modelo
+Problema;0.09114870340036985;Random Forest
+Grupo Problema;0.04126083528218671;Random Forest
+Assunto;0.033635998810812855;Random Forest
+Faixa Etária;0.033612695656378554;Random Forest
+Procurou Empresa;0.030195364122133268;Random Forest
+UF;0.014494006877546754;Random Forest
+Como Comprou Contratou;0.013008133426971078;Random Forest
+Região;0.011476181539096814;Random Forest
+Cidade;0.008681727956254817;Random Forest
+Sexo;0.005270350379032857;Random Forest
+Área;0.0005956140882004486;Random Forest
+Problema;0.5073945682646928;Gradient Boosting
+Faixa Etária;0.18661167066777018;Gradient Boosting
+Grupo Problema;0.14013581527854613;Gradient Boosting
+Procurou Empresa;0.13898635316171884;Gradient Boosting
+Assunto;0.11749400073787186;Gradient Boosting
+Região;0.060087559735956766;Gradient Boosting
+Como Comprou Contratou;0.05660380762929959;Gradient Boosting
+Cidade;0.026730550740514863;Gradient Boosting
+UF;0.021352912426982805;Gradient Boosting
+Sexo;0.0020176172384712607;Gradient Boosting
+Área;9.074340264512985e-05;Gradient Boosting

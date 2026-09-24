@@ -1,0 +1,10 @@
+{
+  "modelo_final": "Random Forest",
+  "justificativa": "JUSTIFICATIVA_MODELO_FINAL",
+  "estrategia_operacional": "threshold",
+  "top_k_percentual": null,
+  "threshold_operacional": 0.6,
+  "avaliacao_oot_executada": true,
+  "recalibracao_com_oot": false,
+  "modelo_final_congelado": true
+}

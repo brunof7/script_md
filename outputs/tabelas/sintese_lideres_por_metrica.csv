@@ -1,0 +1,13 @@
+﻿Métrica;Direção;Modelo(s);Melhor valor
+Precisão @0,50;max;Random Forest;0.443017044009158
+Revocação @0,50;max;Regressão Logística;0.3978576893649579
+F1 @0,50;max;Regressão Logística;0.4145077720207253
+ROC-AUC;max;Random Forest;0.6481329757198664
+PR-AUC (AP);max;Random Forest;0.4158049071211538
+KS;max;Random Forest;0.224427245242949
+Precisão Operacional;max;Random Forest;0.5053507728894173
+Revocação Operacional;max;Regressão Logística;0.1811126899114657
+Lift Operacional;max;Random Forest;1.7715171043949494
+Brier Score;min;Gradient Boosting;0.2086535785604695
+Brier Skill Score;max;Gradient Boosting;-0.0233703783098071
+PSI Score;min;KNN;0.0886569395660863
