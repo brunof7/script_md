@@ -1,0 +1,5 @@
+﻿Algoritmo;Representação categórica inicial;Escalonamento;Ponto de atenção
+Regressão Logística;One-Hot Encoding;Não necessário para atributos binários do OHE;Regularização e alta dimensionalidade
+KNN;One-Hot Encoding;"Não automático; avaliar conjuntamente com representação e distância";Maldição da dimensionalidade e métrica de distância
+Random Forest;One-Hot Encoding;Não necessário;Custo computacional com muitas features
+Gradient Boosting;One-Hot Encoding;Não necessário;Custo computacional e alta dimensionalidade

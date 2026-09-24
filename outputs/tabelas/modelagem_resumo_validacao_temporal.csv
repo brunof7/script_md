@@ -1,0 +1,5 @@
+﻿Modelo;PR-AUC CV;Precisão CV;Revocação CV;F1 CV;ROC-AUC CV;Parâmetros
+Regressão Logística;0.5947336510009725;0.5919322158534576;0.5165396817308211;0.5512982222769934;0.6589624625090896;"{""modelo__C"": 0.1, ""modelo__class_weight"": null, ""preprocessamento__cat__min_frequency"": 10}"
+KNN;0.5775213907257188;0.5791922338795478;0.45021144199640567;0.5064283334846577;0.6311513014322044;"{""modelo__n_neighbors"": 31, ""modelo__weights"": ""uniform"", ""especificacao"": ""Sem Cidade"", ""metrica"": ""hamming""}"
+Random Forest;0.6070321793347903;0.590213893549625;0.49884995825877554;0.5403151211987723;0.6626480417534429;"{""modelo__max_depth"": null, ""modelo__max_features"": ""sqrt"", ""modelo__min_samples_leaf"": 5, ""preprocessamento__cat__min_frequency"": 10}"
+Gradient Boosting;0.6042019822466775;0.5926408262525334;0.5121503093417362;0.5492335695601116;0.663574093261602;"{""modelo__learning_rate"": 0.1, ""modelo__max_depth"": 2, ""modelo__n_estimators"": 200, ""preprocessamento__cat__min_frequency"": 10}"
