@@ -1,0 +1,24 @@
+﻿Variável;Papel;Decisão;Justificativa
+Região;Preditor;Manter;Característica geográfica disponível na reclamação.
+UF;Preditor;Manter;Característica geográfica disponível na reclamação.
+Cidade;Preditor;Manter;"Característica geográfica disponível; alta cardinalidade será tratada no pipeline."
+Sexo;Preditor;Manter;Característica disponível na entrada da reclamação.
+Faixa Etária;Preditor;Manter;Característica disponível na entrada da reclamação.
+Data Finalização;Controle temporal;Não usar como preditor;O momento de finalização não é conhecido no instante da predição.
+Tempo Resposta;Pós-evento;Excluir;É produzido durante o tratamento e pode introduzir data leakage.
+Nome Fantasia;Filtro;Excluir;Após o filtro possui apenas um valor: Banco do Brasil.
+Segmento de Mercado;Constante;Excluir;Após o filtro possui apenas um valor.
+Área;Preditor;Manter;Característica do conteúdo da reclamação.
+Assunto;Preditor;Manter;Característica do conteúdo da reclamação.
+Grupo Problema;Preditor;Manter;Característica do problema relatado.
+Problema;Preditor;Manter;Característica do problema relatado.
+Como Comprou Contratou;Preditor;Manter;Característica disponível na reclamação.
+Procurou Empresa;Preditor;Manter;Informação declarada pelo consumidor no registro da reclamação.
+Respondida;Pós-evento;Excluir;Reflete ação ocorrida durante o tratamento da reclamação.
+Situação;Desfecho administrativo;Excluir;Distingue diretamente reclamações avaliadas e não avaliadas.
+Avaliação Reclamação;Variável-alvo original;Não usar como preditor;Origina a target binária.
+Nota do Consumidor;Pós-desfecho;Excluir;É atribuída pelo consumidor após o tratamento e está diretamente associada ao desfecho.
+Interação com Judiciario;Disponibilidade inconsistente;Excluir nesta fase;Apresenta elevada ausência e disponibilidade temporal inconsistente na base.
+Último Complemento Consumidor;Pós-evento / alta ausência;Excluir nesta fase;Possui elevada ausência e representa interação posterior ao registro inicial.
+AAAA_MM;Controle temporal;Não usar como preditor;Será utilizado exclusivamente para o particionamento temporal.
+target;Variável-alvo;Target;"1 = Resolvida; 0 = Não Resolvida."
