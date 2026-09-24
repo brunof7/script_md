@@ -1,0 +1,24 @@
+# Base de dados - não enviar ao GitHub
+Base de dados/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
