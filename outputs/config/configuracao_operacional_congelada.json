@@ -1,0 +1,16 @@
+{
+  "estrategia_operacional": "threshold",
+  "top_k_percentual": null,
+  "threshold_operacional": 0.6,
+  "modelos_para_oot": [
+    "Regressão Logística",
+    "KNN",
+    "Random Forest",
+    "Gradient Boosting"
+  ],
+  "justificativa_negocio": "Especialistas querem ter mais certeza das que serão resolvidas.",
+  "data_decisao": "2026-09-24",
+  "fonte_decisao": "Consulta com dois especialistas da Ouvidoria",
+  "regra_congelada": true,
+  "oot_acessado_nesta_etapa": false
+}

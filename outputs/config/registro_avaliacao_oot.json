@@ -1,0 +1,17 @@
+{
+  "config_sha256": "f9d9562efadbf34d48b98190db7592a01afe8e0e896a569a600bfcdb65f1a402",
+  "estrategia_operacional": "threshold",
+  "top_k_percentual": null,
+  "threshold_operacional": 0.6,
+  "modelos_avaliados": [
+    "Regressão Logística",
+    "KNN",
+    "Random Forest",
+    "Gradient Boosting"
+  ],
+  "periodo_oot_inicio": "2025_08",
+  "periodo_oot_fim": "2026_07",
+  "n_oot": 32072,
+  "prevalencia_resolvida_oot": 0.2852644050885508,
+  "avaliacao_final_executada": true
+}
